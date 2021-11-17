@@ -2,27 +2,66 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "price": 100.0,
-      "description": "Description 1",
+      "name": "JBL GO 2",
+      "price": 168.0,
+      "description": "Mini Caixa de Som JBL GO 2 Bluetooth - Portátil 3W à Prova de Água",
+      "descriptionComplete": "A mini Caixa de som JBL GO 2 é portátil e à prova d'água, assim você pode levá-la até a borda da piscina sem ter medo de que ela caia e estrague. Com potência de 3W RMS e com um som nítido você aproveita para ouvir as suas músicas prediletas. A conexão Bluetooth permite que ouça suas músicas por até 05 horas de duração. O microfone embutido permite que você atenda ligações sem desconectar seu aparelho. Agora é só aproveitar e curtir a viagem, o churrasco, a festa, ou um momento só seu e com aquele som maneiro!",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/jbl-go-2.jpeg",
-      "category": "Category 1"
-    },
-    {
-      "id": 3,
-      "name": "Product 3",
-      "price": 300.0,
-      "description": "Description 3",
-      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/tv-sony.jpeg",
-      "category": "Category 1"
+      "category": "Áudio'"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "price": 200.0,
-      "description": "Description 2",
-      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/playstation-5.webp",
-      "category": "Category 3"
+      "name": "Smart TV Sony 4K",
+      "price": 4179.0,
+      "description": "Smart TV 65\" Crystal 4K Sony Wi-Fi - Bluetooth HDR Alexa Built in 3 HDMI 1 USB",
+      "descriptionComplete": "Se você procura uma TV para assistir filmes, séries, novelas e até mesmo jogar seus games favoritos com a melhor qualidade possível, a Smart TV da Sony é o modelo ideal para a sua casa! Ela possui tela de 65\" Crystal 4K com painel VA, oferecendo cores vivas e imagens impressionantes de qualquer ângulo. As bordas super finas aumentam ainda mais o campo de visão e destacam apenas as imagens que você quer ver. Seu design elegante contribui para deixar o ambiente mais organizado, pois conta com canaletas exclusivas para organizar e esconder os fios. O sistema operacional Tizen traz mais praticidade e permite comandar a TV por voz através de assistentes integrados como Bixby, Alexa e Google Assistant. Um dos grandes destaques deste modelo é o controle remoto único desenvolvido pela Sony. Com ele você pode controlar todos os aparelhos compatíveis conectados a TV e acessar aplicativos com um único botão de atalho. Além disso, esta smart TV oferece outras vantagens como entradas HDMI e USB, conectividades wi-fi e bluetooth e embalagem reutilizável.",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/tv-sony.jpeg",
+      "category": "TV e Vídeo"
+    },
+    {
+      "id": 3,
+      "name": "Playstation 5",
+      "price": 5000.0,
+      "description": "Console PlayStation 5 PS5 - Sony",
+      "descriptionComplete": "Jogar Não Tem Limites. O slogan do novo PlayStation 5 diz tudo sobre o console lançado em 2020. Desfrute do carregamento extremamente rápido com o SSD de 825GB de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para PlayStation. Domine o poder de uma CPU e GPU personalizadas e o SSD com E/S integradas que redefinem as regras do que o console PlayStation pode fazer. Maximize suas sessões de jogo com tempos de carregamento praticamente instantâneos para jogos do PS5 instalados. A integração personalizada dos sistemas de console PS5 permite que os criadores extraiam dados do SSD tão rápido que eles podem desenvolver jogos de formas que antes seriam impossíveis. Mergulhe em mundos com um nível inédito de realismo enquanto os raios de luz são simulados individualmente, criando sombras e reflexos realistas em jogos compatíveis do PS5. Desfrute de fluidez e taxa de quadros de até 120qps em jogos compatíveis, com suporte a saída de 120Hz em telas 4K. Com uma TV HDR, os jogos compatíveis do PS5 exibem uma variedade de cores inacreditavelmente vibrante e realista. Os consoles PS5 oferecem suporte a saída 8K, para que você possa jogar na sua tela com resolução de 4320p em TV's que sejam compatíveis com a tecnologia. Acompanha 1 controle DualSense e 1 jogo pré-instalado.",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/playstation-5.jpeg",
+      "category": "Games"
+    },
+    {
+      "id": 4,
+      "name": "God of War - PS4",
+      "price": 69.0,
+      "description": "God of War para PS4 - Santa Monica Studio",
+      "descriptionComplete": "Se divertir é muito bom, e para quem gosta de jogos, investir neles é uma ótima forma de ter sempre algo legal para se distrair. O jogo God Of War para Playstation 4 é da desenvolvedora Santa Monica Studio, sendo um jogo de ação. Nesse jogo, é um novo começo para Kratos, vivendo como um homem longe da sombra dos deuses, ele se aventura pelas selvagens florestas nórdicas com seu filho Atreus, lutando para cumprir uma missão profundamente pessoal. O Santa Monica Studio e o diretor de criação Cory Barlog lançam um novo começo para um dos personagens mais conhecidos dos jogos. Vivendo como um homem, fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda oportunidade de ser pai. Junto ao seu filho, Atreus, os dois vão se aventurar pelas selvagens florestas nórdicas e lutar para cumprir uma missão profundamente pessoal. Adquira esse jogo e comece a diversão.",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/god-of-war.jpeg",
+      "category": "Games"
+    },
+    {
+      "id": 5,
+      "name": "Xbox Series S",
+      "price": 2555.0,
+      "description": "Xbox Series S 2020 Nova Geração 512GB SSD - 1 Controle Branco Microsoft Lançamento",
+      "descriptionComplete": "Xbox Series S, nosso Xbox menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital. O Xbox Series S também possui os melhores serviços para jogadores de todos os tipos. O Game Pass é um serviço que te dá acesso a centenas de jogos de todos os gêneros (assinatura vendida separadamente). O melhor sistema online para multiplayer está presente no Xbox Series S, o Xbox Live (assinatura vendida separadamente). Tudo isso com um SSD de 512GB para armazenar esses jogos. Venha para o lado verde!",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/xbox-series-s.jpeg",
+      "category": "Games"
+    },
+    {
+      "id": 6,
+      "name": "Controle Nintendo Switch",
+      "price": 349.0,
+      "description": "Controle Nintendo Switch Pro Controller - HBCAFSSK1",
+      "descriptionComplete": "Controle para Nintendo Switch sem Fio Pro Controller Aumente o nível das suas sessões de jogo com o Controle Pro Controller. Inclui controle de movimento, vibração HD, funcionalidade amiibo pré-instalada e muito mais. Na cor cinza e sem fio, esse controle irá elevar seu jogo e facilitará suas ações no console. O Pro Controller vem para te dar mais uma opção de como jogar em seu Switch e te deixar a vontade para jogar como quiser.",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/controle-switch.jpeg",
+      "category": "Games"
+    },
+    {
+      "id": 7,
+      "name": "Nintendo Switch",
+      "price": 349.0,
+      "description": "Nintendo Switch 32GB, 1x Joycon, Neon Azul/Vermelho - HBDSKABA1",
+      "descriptionComplete": "Console Nintendo Switch O console que lhe permite jogar os jogos que quiser, onde e como quiser. Inclui o console Nintendo Switch e a base do Nintendo Switch na cor preta, contrastando com os controles Joy-Con direito e esquerdo, um vermelho e o outro azul. Também inclui tudo o que você precisa para começar a jogar. Três modos em um só Switch. O Nintendo Switch foi desenvolvido para fazer parte da sua vida, transformando-se de um console doméstico em um console portátil num piscar de olhos. Coloque o seu Nintendo Switch na base do console para se divertir jogando em sua televisão. Abra o suporte para compartilhar a tela – e a diversão – em jogos multijogador. Remova o console da base e jogue com os controles Joy-Con encaixados. Este é o controle do Nintendo Switch, o Joy-Con! Os controles Joy-Con incluídos permitem total flexibilidade no jogo. Um ou dois controles, na vertical ou na horizontal, encaixados no console ou não. Você pode jogar de diversas maneiras, dependendo do jogo. Passe um Joy-Con a um amigo para uma diversão instantânea com dois jogadores. Ou convide mais amigos com seus próprios controles para uma festa de jogos Experimente algo novo A vibração HD traz a você uma experiência física mais realista do jogo, enquanto a câmera de infravermelho possibilita novas experiências.",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/nintendo-switch.jpeg",
+      "category": "Games"
     }
   ],
   "productsOnOffer": [
@@ -37,6 +76,84 @@
       "productId": 2,
       "percentage": "20",
       "endDate": "05/12/2021"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "percentage": "15",
+      "endDate": "04/12/2021"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "percentage": "30",
+      "endDate": "05/12/2021"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "percentage": "20",
+      "endDate": "01/12/2021"
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "percentage": "15",
+      "endDate": "09/12/2021"
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "percentage": "30",
+      "endDate": "08/12/2021"
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "percentage": "10",
+      "endDate": "05/12/2021"
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "percentage": "10",
+      "endDate": "05/12/2021"
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "percentage": "30",
+      "endDate": "01/12/2021"
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "percentage": "20",
+      "endDate": "03/12/2021"
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "percentage": "15",
+      "endDate": "05/12/2021"
+    },
+    {
+      "id": 13,
+      "productId": 13,
+      "percentage": "30",
+      "endDate": "02/12/2021"
+    },
+    {
+      "id": 14,
+      "productId": 14,
+      "percentage": "10",
+      "endDate": "04/12/2021"
+    },
+    {
+      "id": 15,
+      "productId": 15,
+      "percentage": "20",
+      "endDate": "01/12/2021"
     }
   ]
 }
