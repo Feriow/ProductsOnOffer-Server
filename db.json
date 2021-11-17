@@ -5,7 +5,7 @@
       "name": "Product 1",
       "price": 100.0,
       "description": "Description 1",
-      "image": "www.google.com",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/jbl-go-2.jpeg",
       "category": "Category 1"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Product 3",
       "price": 300.0,
       "description": "Description 3",
-      "image": "www.google.com",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/tv-sony.jpeg",
       "category": "Category 1"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Product 2",
       "price": 200.0,
       "description": "Description 2",
-      "image": "www.google.com",
+      "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/playstation-5.webp",
       "category": "Category 3"
     }
   ],
