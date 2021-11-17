@@ -140,91 +140,91 @@
     {
       "id": 1,
       "productId": 1,
-      "percentage": "10",
+      "percentage": 10,
       "endDate": "01/12/2021"
     },
     {
       "id": 2,
       "productId": 2,
-      "percentage": "20",
+      "percentage": 20,
       "endDate": "05/12/2021"
     },
     {
       "id": 3,
       "productId": 3,
-      "percentage": "15",
+      "percentage": 15,
       "endDate": "04/12/2021"
     },
     {
       "id": 4,
       "productId": 4,
-      "percentage": "30",
+      "percentage": 30,
       "endDate": "05/12/2021"
     },
     {
       "id": 5,
       "productId": 5,
-      "percentage": "20",
+      "percentage": 20,
       "endDate": "01/12/2021"
     },
     {
       "id": 6,
       "productId": 6,
-      "percentage": "15",
+      "percentage": 15,
       "endDate": "09/12/2021"
     },
     {
       "id": 7,
       "productId": 7,
-      "percentage": "30",
+      "percentage": 30,
       "endDate": "08/12/2021"
     },
     {
       "id": 8,
       "productId": 8,
-      "percentage": "10",
+      "percentage": 10,
       "endDate": "05/12/2021"
     },
     {
       "id": 9,
       "productId": 9,
-      "percentage": "10",
+      "percentage": 10,
       "endDate": "05/12/2021"
     },
     {
       "id": 10,
       "productId": 10,
-      "percentage": "30",
+      "percentage": 30,
       "endDate": "01/12/2021"
     },
     {
       "id": 11,
       "productId": 11,
-      "percentage": "20",
+      "percentage": 20,
       "endDate": "03/12/2021"
     },
     {
       "id": 12,
       "productId": 12,
-      "percentage": "15",
+      "percentage": 15,
       "endDate": "05/12/2021"
     },
     {
       "id": 13,
       "productId": 13,
-      "percentage": "30",
+      "percentage": 30,
       "endDate": "02/12/2021"
     },
     {
       "id": 14,
       "productId": 14,
-      "percentage": "10",
+      "percentage": 10,
       "endDate": "04/12/2021"
     },
     {
       "id": 15,
       "productId": 15,
-      "percentage": "20",
+      "percentage": 20,
       "endDate": "01/12/2021"
     }
   ]
