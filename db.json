@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100.0,
+      "description": "Description 1",
+      "image": "www.google.com",
+      "category": "Category 1"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300.0,
+      "description": "Description 3",
+      "image": "www.google.com",
+      "category": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200.0,
+      "description": "Description 2",
+      "image": "www.google.com",
+      "category": "Category 2"
+    }
+  ],
+  "productsOnOffer": [
+    {
+      "id": 1,
+      "productId": 1,
+      "percentage": "10",
+      "endDate": "01/12/2021"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "percentage": "20",
+      "endDate": "05/12/2021"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "db-projeto-final",
+  "version": "1.0.0",
+  "description": "Database of products for Meliuz Tech Experience challenge project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feriow/ProductsOnOffer-Server"
+  },
+  "keywords": [],
+  "author": "José Valter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Feriow/meliuz-server/issues"
+  },
+  "homepage": "https://github.com/Feriow/meliuz-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
