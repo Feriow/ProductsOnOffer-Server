@@ -6,6 +6,7 @@ export interface IProduct {
   descriptionComplete: string;
   image: string;
   category: string;
+  store: string;
 }
 
 export interface IProductOnOffer {

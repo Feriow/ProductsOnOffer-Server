@@ -7,7 +7,8 @@
       "description": "Mini Caixa de Som JBL GO 2 Bluetooth - Portátil 3W à Prova de Água",
       "descriptionComplete": "A mini Caixa de som JBL GO 2 é portátil e à prova d'água, assim você pode levá-la até a borda da piscina sem ter medo de que ela caia e estrague. Com potência de 3W RMS e com um som nítido você aproveita para ouvir as suas músicas prediletas. A conexão Bluetooth permite que ouça suas músicas por até 05 horas de duração. O microfone embutido permite que você atenda ligações sem desconectar seu aparelho. Agora é só aproveitar e curtir a viagem, o churrasco, a festa, ou um momento só seu e com aquele som maneiro!",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/jbl-go-2.jpeg",
-      "category": "Áudio"
+      "category": "Áudio",
+      "store": "Magazine Luiza"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "description": "Smart TV 32\" HD LED TCL S615 VA 60Hz - Android Wi-Fi e Bluetooth Google Assistente 2 HDMI",
       "descriptionComplete": "A Smart TV S615 da TCL vem com tela LED HD de 32\" e painel VA, o que proporciona um novo jeito de ver TV. Seus filmes e jogos terão muito mais qualidade! Ela vem com conectividade Wi-Fi e Bluetooth para que você conecte seu smartphone, teclado ou mouse para digitar e navegar com facilidade ou ainda amplificar suas músicas. O controle remoto da S615 vem com comando de voz do Google Assistente para facilitar sua busca por filmes e séries! Além disso, você possui as 2 entradas HDMI, 1 USB, 1 RF para TV aberta, 1 Saída de Áudio, 1 entrada LAN e 1 entrada AV, tudo para que você conecte aparelhos eletrônicos diversos.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/tv-tcl.jpeg",
-      "category": "TV e Vídeo"
+      "category": "TV e Vídeo",
+      "store": "Lojas Americanas"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "description": "Console PlayStation 5 PS5 - Sony",
       "descriptionComplete": "Jogar Não Tem Limites. O slogan do novo PlayStation 5 diz tudo sobre o console lançado em 2020. Desfrute do carregamento extremamente rápido com o SSD de 825GB de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para PlayStation. Domine o poder de uma CPU e GPU personalizadas e o SSD com E/S integradas que redefinem as regras do que o console PlayStation pode fazer. Maximize suas sessões de jogo com tempos de carregamento praticamente instantâneos para jogos do PS5 instalados. A integração personalizada dos sistemas de console PS5 permite que os criadores extraiam dados do SSD tão rápido que eles podem desenvolver jogos de formas que antes seriam impossíveis. Mergulhe em mundos com um nível inédito de realismo enquanto os raios de luz são simulados individualmente, criando sombras e reflexos realistas em jogos compatíveis do PS5.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/playstation-5.jpeg",
-      "category": "Games"
+      "category": "Games",
+      "store": "Amazon"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "description": "God of War para PS4 - Santa Monica Studio",
       "descriptionComplete": "Se divertir é muito bom, e para quem gosta de jogos, investir neles é uma ótima forma de ter sempre algo legal para se distrair. O jogo God Of War para Playstation 4 é da desenvolvedora Santa Monica Studio, sendo um jogo de ação. Nesse jogo, é um novo começo para Kratos, vivendo como um homem longe da sombra dos deuses, ele se aventura pelas selvagens florestas nórdicas com seu filho Atreus, lutando para cumprir uma missão profundamente pessoal. O Santa Monica Studio e o diretor de criação Cory Barlog lançam um novo começo para um dos personagens mais conhecidos dos jogos. Vivendo como um homem, fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda oportunidade de ser pai. Junto ao seu filho, Atreus, os dois vão se aventurar pelas selvagens florestas nórdicas e lutar para cumprir uma missão profundamente pessoal. Adquira esse jogo e comece a diversão.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/god-of-war.jpeg",
-      "category": "Games"
+      "category": "Games",
+      "store": "Magazine Luiza"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "description": "Xbox Series S 2020 Nova Geração 512GB SSD - 1 Controle Branco Microsoft Lançamento",
       "descriptionComplete": "Xbox Series S, nosso Xbox menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital. O Xbox Series S também possui os melhores serviços para jogadores de todos os tipos. O Game Pass é um serviço que te dá acesso a centenas de jogos de todos os gêneros (assinatura vendida separadamente). O melhor sistema online para multiplayer está presente no Xbox Series S, o Xbox Live (assinatura vendida separadamente). Tudo isso com um SSD de 512GB para armazenar esses jogos. Venha para o lado verde!",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/xbox-series-s.jpeg",
-      "category": "Games"
+      "category": "Games",
+      "store": "Lojas Americanas"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "description": "Controle Nintendo Switch Pro Controller - HBCAFSSK1",
       "descriptionComplete": "Controle para Nintendo Switch sem Fio Pro Controller Aumente o nível das suas sessões de jogo com o Controle Pro Controller. Inclui controle de movimento, vibração HD, funcionalidade amiibo pré-instalada e muito mais. Na cor cinza e sem fio, esse controle irá elevar seu jogo e facilitará suas ações no console. O Pro Controller vem para te dar mais uma opção de como jogar em seu Switch e te deixar a vontade para jogar como quiser.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/controle-switch.jpeg",
-      "category": "Games"
+      "category": "Games",
+      "store": "Amazon"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "description": "Nintendo Switch 32GB, 1x Joycon, Neon Azul/Vermelho - HBDSKABA1",
       "descriptionComplete": "Console Nintendo Switch O console que lhe permite jogar os jogos que quiser, onde e como quiser. Inclui o console Nintendo Switch e a base do Nintendo Switch na cor preta, contrastando com os controles Joy-Con direito e esquerdo, um vermelho e o outro azul. Também inclui tudo o que você precisa para começar a jogar. Três modos em um só Switch. O Nintendo Switch foi desenvolvido para fazer parte da sua vida, transformando-se de um console doméstico em um console portátil num piscar de olhos. Coloque o seu Nintendo Switch na base do console para se divertir jogando em sua televisão. Abra o suporte para compartilhar a tela – e a diversão – em jogos multijogador. Remova o console da base e jogue com os controles Joy-Con encaixados. Este é o controle do Nintendo Switch, o Joy-Con! Os controles Joy-Con incluídos permitem total flexibilidade no jogo.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/nintendo-switch.jpeg",
-      "category": "Games"
+      "category": "Games",
+      "store": "Magazine Luiza"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "description": "Drone Multilaser Fun 50m Flip 360º Controle Remoto S/ Câmera",
       "descriptionComplete": "Atravessar fronteiras físicas e alcançar espaços difíceis será possível com o drone Multilaser Fun. Este produto sofisticado pode ser operado remotamente e intuitivamente. Seus propósitos são amplos e diversos, pois é útil em atividades como jogos, eventos, delivery, logística, fins ecológicos, vigilância, entre outros.\n\n Drone Multilaser Fun Alcance de 50m Flips em 360° C/Controle Remoto Preto/Amarelo- ES253.\n\n Para o infinito e além.\n Seu drone de ar permitirá que você veja absolutamente tudo de cima. Certifique-se de encontrar uma plataforma de voo que lhe permita trabalhar confortavelmente e prepare-se para voar.\n\n Gire em seu próprio eixo!\n Seu drone permite que você realize manobras simples para obter os melhores panoramas e acessar lugares incríveis, graças à sua função giratória de 360°.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/drone-multilaser.jpeg",
-      "category": "Câmeras e Drones"
+      "category": "Câmeras e Drones",
+      "store": "Lojas Americanas"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "description": "GoPro HERO9 Black 20MP 5K Wi-Fi Bluetooth GPS - 2,27” à Prova de Água Transmissão ao Vivo",
       "descriptionComplete": "Nada melhor do que viver momentos inesquecíveis e poder registrar tudo em formato de imagens e vídeos com qualidade profissional. Isso é possível com a GoPro HERO9 Black, a câmera de ação mais moderna já feita que traz recursos incríveis para qualquer situação. Ela é equipada com um sensor de 23.6MP capaz de fazer vídeos em até 5K que mantêm todos os detalhes mesmo ao ampliar o zoom e também fotos de até 20MP com alta qualidade e nitidez. A tecnologia HyperSmooth 3.0 garante a maior capacidade de estabilização já criada com nivelamento de horizonte na câmera. Outros recursos exclusivos permitem gravar vídeos em câmera 8x mais lenta, fazer capturas programadas, ajustar a duração de gravação antecipadamente ou até mesmo usar controles de voz. Você também pode aproveitar a HERO9 Black para usar como webcam ou para fazer transmissões ao vivo com opções de montagem quase ilimitadas.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/gopro-9.jpeg",
-      "category": "Câmeras e Drones"
+      "category": "Câmeras e Drones",
+      "store": "Amazon"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "description": "Instax Mini 11 Fujifilm Branca Flash Automático",
       "descriptionComplete": "Viu só quem chegou? A Instax Mini 11 branca! Ela conta com a função selfie e espelho frontal para faciltar seus registros. Você também pode tirar aquela foto close-up de pequenos objetos, insetos ou o que quiser com maior riqueza de detalhes.Fácil de usar e agora com ajustes totalmente automáticos (exposição e flash), a Instax Mini 11 é a opção ideal para fotografar e eternizar os momentos mais divertidos da vida, sem perder a essência do visual retrô e fotos do tamanho de um cartão de crédito que são reveladas instantaneamente! Use a Instax em festas, eventos de família, encontro com amigos, casamentos, eventos escolares, férias e onde mais você quiser! Que tal utilizar as fotos em presentes personalizados, decoração, murais, organização de ambientes e outras infinitas possibilidades? Inspire-se nessas ideias. ",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/instax.jpeg",
-      "category": "Câmeras e Drones"
+      "category": "Câmeras e Drones",
+      "store": "Magazine Luiza"
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "description": "Geladeira/Refrigerador Brastemp Frost Free Duplex - Branca 462L BRM56 ABANA",
       "descriptionComplete": "O Refrigerador BRM56AB da Brastemp foi produzido especialmente pra você!Conta com vários diferenciais que vão te encantar, como a função Turbo Ice onde você pode obter gelo mais rápido sempre que precisar. Twist Ice Advanced esse exclusivo sistema permite abastecer as formas de gelo de um jeito inteligente, evitando molhar o chão da cozinha, além de desenformar o gelo facilmente e armazená-lo em um recipiente portátil e prático. Espaço Adapt prateleiras com múltiplas combinações possíveis para armazenar itens de diversos tamanhos na porta de sua geladeira. Turbo Control compartimento extrafrio bipartido, com função turbo que permite aumentar a potência em um dos lados para gelar bebidas e sobremesas ainda mais rápido. Compartimento especial pra gelar mais rápido suas bebidas.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/geladeira.jpeg",
-      "category": "Eletrodomésticos"
+      "category": "Eletrodomésticos",
+      "store": "Lojas Americanas"
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "description": "Máquina de Lavar 15kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED15)",
       "descriptionComplete": "A Máquina de Lavar 15kg Electrolux Essential Care com Cesto Inox , Dispenser Jet&Clean e Ultra Filter (LED15) foi projetada especialmente para facilitar sua rotina diária. Nossas roupas nos acompanham diariamente, além de mostrar um pouco sobre nossa personalidade. Sendo assim, merecem todo o cuidado que a linha Essential Care oferece. A lavadora de roupas Essential Care 15kg possuí dispenser auto limpante com exclusiva tecnologia Jet&Clean , que mantém o dispenser limpo para o próximo ciclo de lavagem graças aos fortes jatos de água, que diluem até 100%1 do sabão e do amaciante no momento correto do ciclo de lavagem e, ao entrar em contato com a roupa, se espalham de maneira eficiente evitando manchas e relavagens, e promovendo maior cuidado aos tecidos. ",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/maquina-de-lavar.jpeg",
-      "category": "Eletrodomésticos"
+      "category": "Eletrodomésticos",
+      "store": "Amazon"
     },
     {
       "id": 13,
@@ -115,7 +127,8 @@
       "description": "Caixa de Som Torre Pulse Pulsebox Bluetooth - 1000W",
       "descriptionComplete": "Na hora de reunir a familia ou os amigos pra aquele momento de descontração, nada melhor do que animar os encontros com uma boa música não é mesmo? Por isso vale a pena conferir a Caixa de Som Torre Pulsebox. Uma caixa de som bluetooth com 1000W de potência, para agitar seus encontros e embalar sua noite com toda qualidade que a marca Pulse oferece. Com vários recursos de som e efeitos de luzes, essa caixa oferece uma experiencia de áudio imersiva, sendo ideal para qualquer situação. Não perca a oportunidade de conferir essa bela e potente caixa de som! Atenção: o produto não possui bateria integrada, é necessário mantê-lo na tomada para seu funcionamento.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/caixa-de-som.jpeg",
-      "category": "Áudio"
+      "category": "Áudio",
+      "store": "Magazine Luiza"
     },
     {
       "id": 14,
@@ -124,7 +137,8 @@
       "description": "Monitor Smart TV LED 24” LG 24TL520S HD 2 HDMI 1 USB WiFi",
       "descriptionComplete": "Com o Monitor Smart TV LED 24\" LG 24TL520S HD, tenha o dinamismo de uma tela que é um monitor e uma TV ao mesmo tempo! Conta com design compacto e moderno, perfeita para pequenos espaços e ainda pode ser instalada na parede. Possui sistema operacional WebOS 3.5, oferecendo uma infinidade de conteúdos e aplicativos para aproveitar ao máximo as horas de lazer. Assista filmes, séries ou seu programa favorito. Navegue na internet e fique por dentro das notícias. Grave programas da TV aberta digital com o Time Machine Ready e assista quando quiser! Usufrua da qualidade de imagem em som em alta definição. Compartilhe facilmente a tela de seu smartphone, tablet ou notebook pelo recurso Screen Share e assista tudo a partir do TV monitor.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/monitor-lg.jpeg",
-      "category": "TV e Vídeo"
+      "category": "TV e Vídeo",
+      "store": "Lojas Americanas"
     },
     {
       "id": 15,
@@ -133,7 +147,8 @@
       "description": "Smart TV 65” Crystal 4K Samsung 65AU7700 Wi-Fi - Bluetooth HDR Alexa Built in 3 HDMI 1 USB",
       "descriptionComplete": "Se você procura uma TV para assistir filmes, séries, novelas e até mesmo jogar seus games favoritos com a melhor qualidade possível, a Smart TV UN65AU7700GXZD da Samsung é o modelo ideal para a sua casa! Ela possui tela de 65\" Crystal 4K com painel VA, oferecendo cores vivas e imagens impressionantes de qualquer ângulo. As bordas super finas aumentam ainda mais o campo de visão e destacam apenas as imagens que você quer ver. Seu design elegante contribui para deixar o ambiente mais organizado, pois conta com canaletas exclusivas para organizar e esconder os fios. O sistema operacional Tizen traz mais praticidade e permite comandar a TV por voz através de assistentes integrados como Bixby, Alexa e Google Assistant.",
       "image": "https://raw.githubusercontent.com/Feriow/ProductsOnOffer-Server/main/Assets/Images/tv-samsung.jpeg",
-      "category": "TV e Vídeo"
+      "category": "TV e Vídeo",
+      "store": "Amazon"
     }
   ],
   "productsOnOffer": [
