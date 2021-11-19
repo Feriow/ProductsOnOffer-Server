@@ -15,8 +15,12 @@
       "price": 4349,
       "description": "O Xbox Series X oferece taxas de quadro extraordinariamente estáveis de até 120 FPS com o pop visual de HDR. Mergulhe em personagens mais nítidos, mundos mais brilhantes e detalhes incríveis com o realismo do 4K.",
       "image": "https://compass-ssl.xbox.com/assets/f0/85/f085c120-d3d5-4424-8b70-eb25deaa326e.png?n=XBX_A-BuyBoxBGImage01-D.png",
+<<<<<<< HEAD
       "category": "Games",
       "store": "Magazine Luiza"
+=======
+      "category": "Games"
+>>>>>>> d9fa97efabe48eaef52c1a670202a21af01f6846
     },
     {
       "id": 3,
@@ -24,8 +28,12 @@
       "price": 6699,
       "description": "O iPhone 13 tem uma tela superbrilhante projetada para ser resistente. Faz vídeos com qualidade de cinema. Seu chip tem uma velocidade impressionante. E ganhou um aumento notável em bateria.",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2021/09/iphone-13-produto-2-700x700.png",
+<<<<<<< HEAD
       "category": "Celulares e Smartphones",
       "store": "Amazon"
+=======
+      "category": "Celulares e Smartphones"
+>>>>>>> d9fa97efabe48eaef52c1a670202a21af01f6846
     },
     {
       "id": 4,
@@ -33,8 +41,12 @@
       "price": 10926.57,
       "description": "O chip M1 impulsiona o desempenho do notebook mais fino e leve da Apple. Encare qualquer projeto com a CPU de oito núcleos ultrarrápida. Com a GPU de até oito núcleos, suba o nível dos gráficos em games e apps. E acelere as tarefas de aprendizado de máquina com o Neural Engine de 16 núcleos. Tudo isso em um design sem ventoinha e com tempo de bateria impressionante: até 18 horas. MacBook Air. Portátil como sempre, só que muito mais potente.Avisos legaisÉ possível personalizar a configuração.",
       "image": "https://a-static.mlcdn.com.br/618x463/macbook-air-133-apple-m1-8gb-512gb-ssd-dourado/magazineluiza/227625800/f5f54c5fba48f9ea65aaed345b975e76.jpg",
+<<<<<<< HEAD
       "category": "Informática",
       "store": "Lojas Americanas"
+=======
+      "category": "Informática"
+>>>>>>> d9fa97efabe48eaef52c1a670202a21af01f6846
     },
     {
       "id": 5,
@@ -42,8 +54,12 @@
       "price": 1208.07,
       "description": "A Epson EcoTank L3250 é uma impressora multifuncional tanque de tinta 3 em 1 com conexão wireless destinada à famílias, estudantes, e profissionais. Oferece baixo custo de impressão graças ao sistema de EcoTank, que imprime até 4.500 páginas em preto e 7.500 páginas coloridas com cada kit de garrafas de reposição original. A tecnologia Heat-Free da Epson não requer aquecimento da tinta no processo, e com isso garante mais rapidez, economia de energia e confiabilidade à impressora.",
       "image": "https://a-static.mlcdn.com.br/618x463/impressora-multifuncional-epson-ecotank-l3250-tanque-de-tinta-colorida-usb-wi-fi/magazineluiza/231776800/9af65f2b0a224acdfa86ac804507a0f4.jpg",
+<<<<<<< HEAD
       "category": "Informática",
       "store": "Magazine Luiza"
+=======
+      "category": "Informática"
+>>>>>>> d9fa97efabe48eaef52c1a670202a21af01f6846
     },
     {
       "id": 6,
@@ -51,8 +67,12 @@
       "price": 24249,
       "description": "O iMac de 27 polegadas vem carregado de apps e ferramentas poderosas para dar vida às suas maiores ideias. Ele encara qualquer tipo de tarefa com seus chips gráficos e processadores de altíssima velocidade, armazenamento flash e grande capacidade de memória. E, com recursos de áudio e vídeo avançados e a linda tela Retina 5K, seu trabalho vai brilhar, em todos os sentidos.",
       "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc3/imac.jpg",
+<<<<<<< HEAD
       "category": "Informática",
       "store": "Lojas Americanas"
+=======
+      "category": "Informática"
+>>>>>>> d9fa97efabe48eaef52c1a670202a21af01f6846
     },
     {
       "id": 7,
